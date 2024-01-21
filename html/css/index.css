@@ -1,0 +1,15 @@
+.Cabecera{
+ border-radius: 20px;
+ background-color: aqua;
+ font-size: 15px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.cuerpo{
+    border-radius: 15px;
+    background-color: aqua;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+   }
